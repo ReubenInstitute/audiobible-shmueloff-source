@@ -1,0 +1,10 @@
+Package: audiobible-shmueloff-source
+Version: 0.1
+Section: sound
+Priority: optional
+Architecture: all
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Description: Original 1970s recordings (Abraham Shmueloff), fixed source audio
+ Original ~1970 recordings of Abraham Shmueloff reading the entire Hebrew
+ Bible, the fixed source audio everything else in AudioBible is derived
+ from.
